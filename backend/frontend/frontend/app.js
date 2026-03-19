@@ -1,4 +1,4 @@
-const API = "http://localhost:3000";
+const API = "https://ponto-empresa.onrender.com";
 
 let token = localStorage.getItem("token");
 
